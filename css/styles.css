@@ -1,0 +1,10 @@
+/* Estilos personalizados */
+.custom-navbar {
+    background-color: transparent;
+    transition: background-color 0.5s ease;
+}
+
+.custom-navbar.scrolled {
+    background-color: #333; /* Cambia el color de fondo al hacer scroll */
+}
+
