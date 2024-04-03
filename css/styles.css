@@ -53,6 +53,10 @@ body {
     text-align: justify;
 }
 
+.text-projects{
+    text-align: justify;
+}
+
 /* Media query para hacerlo responsivo */
 @media screen and (max-width: 1300px) {
     .navbar-brand, .navbar-menu {
